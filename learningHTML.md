@@ -18,6 +18,7 @@ Adding line no 2 : Test is not clear.
 Addubg line no 3 : Trying but not got the point still.
 Adding line no 4 : Changes are being pushed. But I cannot see the changes in GITHUB.
 Adding line no 5 : I got the changes. The changes are in website\learningHTML.md.
+Adding line no 6 : I have understood use of - chamges, message, commit and push.
 footer,
 main,
 sidebar,
