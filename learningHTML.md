@@ -21,6 +21,7 @@ Adding line no 5 : I got the changes. The changes are in website\learningHTML.md
 Adding line no 6 : I have understood use of - chamges, message, commit and push.
 Adding line no 7: First, created a blank line using enter.
 Adding line no 8: The blank line is created.
+Adding line no 9: Understanding some aspect of GITHUB.
 
 footer,
 main,
